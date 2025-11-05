@@ -1,0 +1,2 @@
+# RETAIL-ANALYTICS-INSIGHTS-FROM-SALES-RATINGS-AND-CUSTOMER-EMOTIONS
+This project presents an interactive Sales and Customer Feedback Dashboard using Streamlit and VADER sentiment analysis to visualize sales trends and classify customer feedback. It combines KPIs, charts, and word clouds to reveal insights on satisfaction, product performance, and key business issues for better e-commerce decisions.
